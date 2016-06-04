@@ -13,4 +13,7 @@ To check if your browser is compatible, access: [Unity - Manual: WebGL Browser C
 
 ## Screenshots
 
+![Preview 1](https://raw.githubusercontent.com/wevtimoteo/unity-roll-a-ball/master/Press/preview_1.png)
+![Preview 2](https://raw.githubusercontent.com/wevtimoteo/unity-roll-a-ball/master/Press/preview_2.png)
+![Preview 3](https://raw.githubusercontent.com/wevtimoteo/unity-roll-a-ball/master/Press/preview_3.png)
 
